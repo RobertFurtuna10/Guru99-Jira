@@ -50,7 +50,7 @@
     
             3.8 Test completion report
 
- ### 1. Introduction
+### 1. Introduction
 -The Guru99 Bank project aims to provide net banking facility to its customers.
 
 -This release will have limited features. Over a period of time , new and new functionalities will be added to the site
@@ -75,3 +75,14 @@
 Automation testing is beyond scope.
 
 - No QA support for mobile applications developed. Only web applications will be tested.
+
+### 2 Test process
+### 2.1 Test planning
+#### Roles and responsabilities
+| Role | Responsabilities  | 
+| :-----: | :---: |
+| Robert - Tester | will test: Login, Register, Forgotten Password  | 
+|  Robert - Tester | will test: New Account module  |
+| Robert - Tester  | will test: Edit Account module  | 
+| Robert - Tester  | will test: Delete Account module  | 
+
