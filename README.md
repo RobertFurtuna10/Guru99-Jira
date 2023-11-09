@@ -184,5 +184,6 @@
 [Test case results](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/test%20case%20results.pdf)
 
 ### 3.6 Bugs report
+[Bug report](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/bugs%20report.pdf)
 
 ### 3.8 Test completion report
