@@ -174,6 +174,8 @@
 ### 3.2 Test cases
 
 ### 3.3 Daily test summary report
+![Daily report](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/daily%20report.png)
+![Daily report](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/daily%20report%202.png)
 
 ### 3.4 Traceability matrix
 
