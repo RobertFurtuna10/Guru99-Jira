@@ -171,3 +171,14 @@
 ### 3. Test deliverables
 ### 3.1 Test conditions
 
+### 3.2 Test cases
+
+### 3.3 Daily test summary report
+
+### 3.4 Traceability matrix
+
+### 3.5 Test case results
+
+### 3.6 Bugs report
+
+### 3.8 Test completion report
