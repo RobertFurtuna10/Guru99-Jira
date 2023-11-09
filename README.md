@@ -109,6 +109,17 @@ Automation testing is beyond scope.
 ### 2.2 Test analysis
 -Test Login Account to check the functionality of the login menu.
 
--
+-Test the New Account module to check the functionality of: Customr id, Account type and Initial deposit and also to check the functionality of Submit and reset buttons. 
 
+-Test the Edit Account module to check the functionality of Account number and also to check the functionality of Submit and reset buttons.
 
+-Test the Delete Account module to check the functionality of Account number and also to check the functionality of Submit and reset buttons.
+
+### 2.3 Test design
+-defining the testing process
+
+-all the test cases are written and then examined 
+
+-Jira will be used as test management tool
+
+### 2.4 Test implementation
