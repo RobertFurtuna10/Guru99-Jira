@@ -123,3 +123,49 @@ Automation testing is beyond scope.
 -Jira will be used as test management tool
 
 ### 2.4 Test implementation
+-all the test data is available and reviewed
+
+-this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
+
+-Test suites are created (Cycle Summary was created)
+
+
+### 2.5 Test execution
+-the tests will be executed on the following browsers: Chrome, Mozilla. If time will be available we will extend tests on Opera and Brave browsers
+
+-Bugs will be created based on the failed test cases 
+
+-The full regression testing will be done after new application changes 
+
+-Retesting will be done after a bug is fixed 
+
+-If the site will shut down, we will execute full retesting
+
+-The regression test will be executed when a problem is solved
+
+### 2.6 Test closure
+-New account: 100% tests were executed and passed
+
+-Edit account: 100% tests were executed and 75% of them are passed 
+
+-Delete account: 100% tests were executed and 86% of them are passed 
+
+### 2.7 Test monitoring and control
+-Various periodic reports will be generated to reflect the current status of testing process, in case of major problems control measures could be taken. 
+
+-Offering feedback to the QA team and other stakeholders regarding the progress.
+
+-Conveying test results achieved so far to all relevant parties
+
+-Identifying and tracking relevant test metrics
+
+-Planning and Estimation to determine the future course of action based on the metrics being tracked
+
+-Prioritize testing efforts in a different way
+
+-Reorganize test schedules and deadlines
+
+-Restructure the test environment
+
+-Reprioritize the test case and conditions
+
