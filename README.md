@@ -49,4 +49,16 @@
             3.7 Bugs report
     
             3.8 Test completion report
-    
+
+ ### 1. Introduction
+-The Guru99 Bank project aims to provide net banking facility to its customers.
+
+-This release will have limited features. Over a period of time , new and new functionalities will be added to the site
+
+### 1.1 Project Objective
+-We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
+
+-Application under test: https://demo.guru99.com/V4/index.php
+
+-Documentation: https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit)https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit
+
