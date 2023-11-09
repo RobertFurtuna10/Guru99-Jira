@@ -63,18 +63,19 @@
 -Documentation: https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit)https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit
 
 ### 1.2 Functionalities in scope
-- All the features of Account module which were defined in Guru99 business requirements will be tested using the following testing types: functional testing, GUI testing, API testing.
+-All the features of Account module which were defined in Guru99 business requirements will be tested using the following testing types: functional testing, GUI testing, API testing.
   
-- The Guru99 application will be tested on latest versions of Mozilla and Chrome.
+-The Guru99 application will be tested on latest versions of Mozilla and Chrome.
 
 
 ### 1.3 Functionalities and tests out of scope
-- All the features that are not under My account module 
+-All the features that are not under My account module 
   
-- Non-functional testing like stress, performance is beyond scope of this project.
-Automation testing is beyond scope.
+-Non-functional testing like stress, performance is beyond scope of this project.
 
-- No QA support for mobile applications developed. Only web applications will be tested.
+-Automation testing is beyond scope.
+
+-No QA support for mobile applications developed. Only web applications will be tested.
 
 ### 2 Test process
 ### 2.1 Test planning
