@@ -181,6 +181,7 @@
 ![Traceability matrix](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/traceability%20matrix.png)
 
 ### 3.5 Test case results
+[Test case results](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/test%20case%20results.pdf)
 
 ### 3.6 Bugs report
 
