@@ -86,3 +86,29 @@ Automation testing is beyond scope.
 | Robert - Tester  | will test: Edit Account module  | 
 | Robert - Tester  | will test: Delete Account module  | 
 
+#### Entry criteria
+-smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
+
+-testing environment is up and running
+
+-roles needed for the project are allocated 
+
+-functional specifications are defined 
+
+-Test Data is prepared
+
+-The necessary equipment and software are installed for testing
+
+#### Risks
+-stability risks (crashes, disconnects, etc)
+
+-stress conditions might impact the web application
+
+-new browser might not be supported
+
+### 2.2 Test analysis
+-Test Login Account to check the functionality of the login menu.
+
+-
+
+
