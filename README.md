@@ -56,9 +56,22 @@
 -This release will have limited features. Over a period of time , new and new functionalities will be added to the site
 
 ### 1.1 Project Objective
--We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
+-We need to raise the trust in the quality of the project as high as possible before releasing it to customers. The Purpose of this document is to outline the requirements for the Guru99 Banking website to be developed for Guru99 Tech. Pvt. Ltd. This document will be used by all stakeholders including developers and testers.
 
 -Application under test: https://demo.guru99.com/V4/index.php
 
 -Documentation: https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit)https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit
 
+### 1.2 Functionalities in scope
+- All the features of Account module which were defined in Guru99 business requirements will be tested using the following testing types: functional testing, GUI testing, API testing.
+  
+- The Guru99 application will be tested on latest versions of Mozilla and Chrome.
+
+
+### 1.3 Functionalities and tests out of scope
+- All the features that are not under My account module 
+  
+- Non-functional testing like stress, performance is beyond scope of this project.
+Automation testing is beyond scope.
+
+- No QA support for mobile applications developed. Only web applications will be tested.
