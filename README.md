@@ -172,6 +172,7 @@
 ### 3.1 Test conditions
 
 ### 3.2 Test cases
+[Test cases](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/test%20cases.pdf)
 
 ### 3.3 Daily test summary report
 ![Daily report](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/daily%20report.png)
