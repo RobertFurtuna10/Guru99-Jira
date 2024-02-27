@@ -187,7 +187,9 @@
 ### 3.1 Test conditions
 
 ### 3.2 Test cases
-[Test cases]()
+- Test cases are designed to cover various scenarios and functionalities of the Guru99 application.
+- Each test case includes detailed steps, expected results, and preconditions.
+[Test cases](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/test%20cases.pdf)
 
 ### 3.3 Daily test summary report
 ![Daily report](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/daily%20report.PNG)
@@ -200,10 +202,11 @@
 - The matrix can be used for compliance purposes and to demonstrate that all requirements have been adequately tested and verified
 
 ### 3.5 Test case results
-[Test case results]()
+-Test Cases and Results for the Guru99 Application,
+[Here](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/test%20case%20results.pdf) you will find a list of all the test cases result created, along with their results, for the Guru99 application. These test cases cover various aspects of the project and are used to assess its correctness and performance for the functionalities: "New Account," "Edit Account," and "Delete Account".
 
 ### 3.6 Bugs report
-[Bug report]()
+[Bug report](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/bugs%20report.pdf)
 
 ### 3.8 Test completion report
-![Test completion report](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/test%20completion%20report.png)
+- This is the [Test completion report](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/test%20completion%20report.png) for the Guru99 application. It provides a comprehensive overview of the testing process, including test cases, their execution status, and any associated observations or issues encountered during testing.
