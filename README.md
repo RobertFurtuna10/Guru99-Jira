@@ -61,9 +61,12 @@
 -Documentation: [Guru99 Documentation](https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit).
 
 ### 1.2 Functionalities in scope
--All the features of Account module which were defined in Guru99 business requirements will be tested using the following testing types: functional testing, GUI testing, API testing.
-  
--The Guru99 application will be tested on latest versions of Mozilla and Chrome.
+- All the features of New Account, Edit Account, and Delete Account module defined in Guru99 business requirements will be tested using functional testing and GUI testing.
+- To ensure that new customers can successfully register and access the Guru99 Bank services
+- Functional testing & external interfaces are in scope and need to be tested
+- The banking site will be only compatible with Chrome version 27 and above
+- Here we should write all the functionalities that are included in the release.
+- Testing the functionalities related to account management, including account creation, updating, and deletion.
 
 
 ### 1.3 Functionalities and tests out of scope
@@ -98,12 +101,24 @@
 
 -The necessary equipment and software are installed for testing
 
+#### Exit Criteria:
+- 90% of tests are passed.
+- exploratory testing was performed on New Account, Edit Account and Delete module.
+- To provide a detailed record of the test and the obtained results.
+
+
 #### Risks
--stability risks (crashes, disconnects, etc)
+**Project Risks:**
+- The risk of team members committing human errors at various stages of the project, including testing activities.
+- The risk that one or more team members may become unavailable, thus affecting the progress of the project.
+- Uncertainty or lack of communication following testing or the review process, leading to delays or misunderstandings of identified issues.
 
--stress conditions might impact the web application
-
--new browser might not be supported
+**Product Risks:**
+- Stability risks (crashes, disconnects, etc)
+- IE browser might have performance issues
+- The web page pagination could be impacted when opened on mobile devices
+- Stress conditions might impact the web application
+- New browser might not be supported 
 
 ### 2.2 Test analysis
 -Test Login Account to check the functionality of the login menu.
