@@ -194,7 +194,10 @@
 ![Daily report](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/daily%20report%202.PNG)
 
 ### 3.4 Traceability matrix
-![Traceability matrix]()
+![TraceabilityMatrixPNG](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/Traceability%20Matrix.PNG)
+- Regular updates to the [Traceability matrix](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/TraceabilityMatrix.xlsx) help maintain transparency and alignment between testing and project objectives throughout the test life cycle.
+- The matrix indicates the current status of each test case, helping to monitor the testing process and identify any gaps or missing coverage
+- The matrix can be used for compliance purposes and to demonstrate that all requirements have been adequately tested and verified
 
 ### 3.5 Test case results
 [Test case results](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/test%20case%20results.pdf)
