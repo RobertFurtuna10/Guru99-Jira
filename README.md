@@ -56,9 +56,9 @@
 ### 1.1 Project Objective
 -We need to raise the trust in the quality of the project as high as possible before releasing it to customers. The Purpose of this document is to outline the requirements for the Guru99 Banking website to be developed for Guru99 Tech. Pvt. Ltd. This document will be used by all stakeholders including developers and testers.
 
--Application under test: https://demo.guru99.com/V4/index.php
+-Application under test: [Guru99 Bank](https://demo.guru99.com/V4/index.php).
 
--Documentation: [Guru99 Documentation](https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit)https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit).
+-Documentation: [Guru99 Documentation](https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit).
 
 ### 1.2 Functionalities in scope
 -All the features of Account module which were defined in Guru99 business requirements will be tested using the following testing types: functional testing, GUI testing, API testing.
