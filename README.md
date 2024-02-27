@@ -203,7 +203,7 @@
 [Test case results]()
 
 ### 3.6 Bugs report
-[Bug report](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/bugs%20report.pdf)
+[Bug report]()
 
 ### 3.8 Test completion report
 ![Test completion report](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/test%20completion%20report.png)
