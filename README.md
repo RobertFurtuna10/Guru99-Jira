@@ -190,11 +190,11 @@
 [Test cases](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/test%20cases.pdf)
 
 ### 3.3 Daily test summary report
-![Daily report](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/daily%20report.png)
-![Daily report](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/daily%20report%202.png)
+![Daily report](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/daily%20report.PNG)
+![Daily report](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/daily%20report%202.PNG)
 
 ### 3.4 Traceability matrix
-![Traceability matrix](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/traceability%20matrix.png)
+![Traceability matrix]()
 
 ### 3.5 Test case results
 [Test case results](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/test%20case%20results.pdf)
