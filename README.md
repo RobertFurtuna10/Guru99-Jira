@@ -187,7 +187,7 @@
 ### 3.1 Test conditions
 
 ### 3.2 Test cases
-[Test cases](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/test%20cases.pdf)
+[Test cases]()
 
 ### 3.3 Daily test summary report
 ![Daily report](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/daily%20report.PNG)
@@ -200,7 +200,7 @@
 - The matrix can be used for compliance purposes and to demonstrate that all requirements have been adequately tested and verified
 
 ### 3.5 Test case results
-[Test case results](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/test%20case%20results.pdf)
+[Test case results]()
 
 ### 3.6 Bugs report
 [Bug report](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/bugs%20report.pdf)
