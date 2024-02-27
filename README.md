@@ -206,7 +206,7 @@
 [Here](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/test%20case%20results.pdf) you will find a list of all the test cases result created, along with their results, for the Guru99 application. These test cases cover various aspects of the project and are used to assess its correctness and performance for the functionalities: "New Account," "Edit Account," and "Delete Account".
 
 ### 3.6 Bugs report
-- A total of 3 bugs were discovered and through retesting it was confirmed that they have been fixed
+- A total of 3 bugs were discovered and through retesting it was confirmed that they have been fixed.
 [Bug report](https://github.com/RobertFurtuna10/Guru99-Jira/blob/main/bugs%20report.pdf)
 
 ### 3.8 Test completion report
